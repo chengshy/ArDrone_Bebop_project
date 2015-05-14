@@ -1,6 +1,6 @@
 Purpose of BebopDroneDecodeStream
 ==================
-This sample shows how to receive video stream from a Bebop Drone, decode it, display the decoded stream with mplayer and get inputs from users to control the Bebop drone.
+This sample is modified based on the Bebop SDK sample code. More feature added. The bebop can fly along a certain trjectory autonomously with flight data logged. Some improvement in control pose estimation has been made. This sample shows how to receive video stream from a Bebop Drone, decode it, display the decoded stream with mplayer and get inputs from users to control the Bebop drone.
 
 
 To compile SDK Example BebopDroneDecodeStream
